@@ -1,2 +1,2 @@
-# Product-sales-visualization
-product visualization into Microsoft Power BI
+# Employee data visualization
+Employess data visualization into Microsoft Power BI
